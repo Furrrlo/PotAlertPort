@@ -1,0 +1,16 @@
+[
+{
+  "modid": "potalertmod",
+  "name": "Pot Alert",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["t0rrent", "Ferlo"],
+  "credits": "t0rrent for the original mod (?), OFP for the other port",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

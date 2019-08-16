@@ -1,0 +1,10 @@
+{
+	"potalert":
+	{
+		"category": "master",
+		"sounds":
+		[
+			"potalert"
+		]
+	}
+}
